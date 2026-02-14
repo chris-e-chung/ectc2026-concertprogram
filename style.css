@@ -36,6 +36,10 @@ span {
     background: #fafafa;
 }
 
+.right-align {
+    text-align: right;
+}
+
 @media (max-width: 600px) {
   .container {
     max-width: none;
